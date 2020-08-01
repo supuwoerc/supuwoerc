@@ -1,6 +1,6 @@
 #### START
 
-​    <div align='center'>![](https://github.com/supuwoerc/supuwoerc/raw/master/imgs/two.GIF =450 =450x334)</div>
+​    <div align='center'>![](https://github.com/supuwoerc/supuwoerc/raw/master/imgs/two.GIF =450x334)</div>
 
 
 
