@@ -1,6 +1,6 @@
 #### START
 
-​    <div align='center'>![](https://github.com/supuwoerc/supuwoerc/raw/master/imgs/two.GIF =450x334)</div>
+​    <div align='center'><img src ="https://github.com/supuwoerc/supuwoerc/raw/master/imgs/two.GIF "  width="80%"></img></div>
 
 
 
@@ -20,4 +20,3 @@
  #### GAMES
 
 * ![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
-
