@@ -1,6 +1,6 @@
 #### START
 
-​    <div align='center'><img src ="https://github.com/supuwoerc/supuwoerc/raw/master/imgs/two.GIF "  width="80%"></img></div>
+​    <div align='center'><img src ="https://github.com/supuwoerc/supuwoerc/raw/master/imgs/two.GIF "  width="450px"></img></div>
 
 
 
