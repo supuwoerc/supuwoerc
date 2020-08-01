@@ -15,8 +15,9 @@
 
 * 🚀：二零年底开始做些日常的***JavaWeb***开发。
 * 🚀：入门***Arduino***
-* ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)![](https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white)![](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+* ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)![](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
  #### GAMES
 
 * ![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
+
