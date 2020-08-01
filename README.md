@@ -1,6 +1,6 @@
 #### START
 
-​    <div align='center'>![e](https://github.com/supuwoerc/supuwoerc/raw/master/imgs/two.GIF)</div>
+​    <div align='center'><img src="https://www.google.com/doodles/kamma-rahbeks-241st-birthday" width="450px" /></div>
 
 
 
