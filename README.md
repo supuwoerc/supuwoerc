@@ -1,8 +1,8 @@
 #### START
 
-![e](https://github.com/supuwoerc/supuwoerc/raw/master/imgs/1.GIF)
+![e](https://github.com/supuwoerc/supuwoerc/raw/master/imgs/one.GIF)
 
-![e](https://github.com/supuwoerc/supuwoerc/raw/master/imgs/2.GIF)
+![e](https://github.com/supuwoerc/supuwoerc/raw/master/imgs/two.GIF)
 
 #### BASE
 
