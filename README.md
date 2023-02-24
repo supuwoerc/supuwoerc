@@ -1,2 +1,2 @@
-![](https://github-readme-stats.vercel.app/api?username=supuwoerc&show_icons=true&theme=radical&hide=earned)
+![](https://github-readme-stats.vercel.app/api?username=supuwoerc&show_icons=true&theme=radical&hide=total_stars_earned)
 
